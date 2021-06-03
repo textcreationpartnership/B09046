@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Lords and Commons of Parliament assembled at Oxford of their proceedings touching a treaty for peace and the refusall thereof with the severall letters and answers that passed therein.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09046</idno><idno type="EEBO-CITATION">61296993</idno>
+  <idno type="VID">180551</idno>
+  <idno type="EEBO-PROQUEST">2240872284</idno>
+  
+            <idno type="STC">Wing E1356E</idno>
+            <idno type="STC">ESTC R175091</idno>
+            <idno type="OCLC">61296993</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180551)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2833:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Lords and Commons of Parliament assembled at Oxford of their proceedings touching a treaty for peace and the refusall thereof with the severall letters and answers that passed therein.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>[2], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties command, at the desire of the Lords and Commons of Parliament assembled at Oxford, by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Charles R. Ovr expresse pleasure is, that this declaration of the Lords and Commons of Parliament assembled at Oxford, be read by the parson, vicar, or curate, in every church and chappell within our kingdom of England and dominion of Wales. March. 19. 1643."</note>
+                  <note>"Names of the Lords and Commons of Parliament assembled at Oxford who did subscribe the letter to the Earle of Essex, dated January 27, 1643" -- p. 20-25.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1625-1649 : Charles I)</term>
+               <term type="geographic_name">Great Britian --  Politics and government --  1642-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180551:1"/>
+            <p>A DECLARATION OF THE <hi>LORDS</hi> and <hi>COMMONS</hi> OF PARLIAMENT Assembled at OXFORD, Of their Proceedings touching a Trea<g ref="char:EOLhyphen"/>ty for PEACE, and the Refusall thereof; with the severall Letters and Answers that passed therein.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <signed>CHARLES R.</signed>
+                        </opener>
+                        <p>OVr expresse Pleasure is, That this Declaration of the Lords and Commons of Parliament assembled at <hi>Oxford,</hi> be read by the Parson, Vicar or Curate, in every Church and Chappell within Our Kingdom of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>March. 19. 1643.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed by His MAjESTIES Command, at the desire of the Lords and Commons of Parliament Assembled at OXFORD, By LEONARD LICHFIELD, Printer to the Vniversity, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180551:2"/>
+            <pb n="1" facs="tcp:180551:2"/>
+            <head>A DECLARATION Of the Lords and Commons of Parlia<g ref="char:EOLhyphen"/>ment Assembled at OXFORD, of their Pro<g ref="char:EOLhyphen"/>ceedings touching a Treaty for Peace, and the Re<g ref="char:EOLhyphen"/>fusall thereof; with the severall Letters and Answers that passed therein.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F Our most earnest Desires and Endea<g ref="char:EOLhyphen"/>vours could have prevailed for a Treaty, Our Proceedings therein, without this Declaration, would have manifested to all the world the clearnesse of Our inten<g ref="char:EOLhyphen"/>tions for the restoring the Peace of this Kingdome: but seeing all the means used by Vs for that purpose, have been render<g ref="char:EOLhyphen"/>ed fruitlesse, We hold Our selves bound to let Our Coun<g ref="char:EOLhyphen"/>tries know, what in discharge of Our Duty to God and to them, We on Our parts have done since Our comming to <hi>Oxford,</hi> to prevent the further effusion of Christian blood and the desolation of this Kingdome.</p>
+            <p>His Majesty having by his Proclamation, upon occasion of the Invasion from <hi>Scotland,</hi> and other weighty reasons, Com<g ref="char:EOLhyphen"/>manded our attendance at <hi>Oxford</hi> upon the 22<seg rend="sup">d</seg> of <hi>Ianuary</hi>
+               <pb n="2" facs="tcp:180551:3"/> last, there to advise Him for the preservation of the Religion, Lawes and Safety of the Kingdome, and to restore it to its former Peace and Security, These Motives, with the true sense of our Countries miseries, quickned our duty to give ready obedience to those His Royall Commands, hoping (by Gods blessing) to have become happy Instruments for such good ends. And upon our comming hither, We applied our selves with all diligence to advise of such meanes as might most probably settle the Peace of this Kingdome, (the thing most desired by His Majesty and Our selves;) and because We found many gratious offers of Treaty for Peace by His Maje<g ref="char:EOLhyphen"/>sty, had been rejected by the Lords and Commons remaining at <hi>Westminster,</hi> We deemed it fit to write in our own names, and thereby make triall, whether that might produce any bet<g ref="char:EOLhyphen"/>ter effect for the accomplishing our desires and our Countries happinesse. And they having (under pain of death) prohibited the addresse of any Letters or Message to <hi>Westminster,</hi> but by their Generall, and We conceiving Him a Person who (by rea<g ref="char:EOLhyphen"/>son of their trust reposed in Him) had a great influence into, and power over their proceedings, resolved to recommend it to His care, and to engage Him in that pious Worke, with our earnest desire to him to represent it to those that trusted him, (to prevent all exceptions and delay;) and thereupon the 27 of the same <hi>Ianuary,</hi> dispatched a Letter away under the hands of the Prince his Highnesse, the Duke of <hi>Yorke,</hi> and of 43 Dukes, Marquesses, Earles, Viscounts, and Barons of the House of Peeres &amp; 118 Members of the House of Commons there present, (many others of Vs, by reason of distance of place, sicknesse, and imployments in His Majesties Service, and for want of timely notice of the Proclamation of Sum<g ref="char:EOLhyphen"/>mons, not being then come hither:) which Letter We caused to be inclosed in a Letter from the Earle of <hi>Forth</hi> the Kings Generall. A true Copy of which Letter from us to the Earle of <hi>Essex</hi> hereafter followeth, <hi>viz.</hi>
+            </p>
+            <pb n="3" facs="tcp:180551:3"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>HIs <hi>Majesty</hi> having by His Proclamation of the 22. of <hi>Decemb.</hi> (upon the occasion of the Invasion threatned, and in part begun by some of His Subjects of <hi>Scotland</hi>) summon'd all the Members of both Houses of Parliament to at<g ref="char:EOLhyphen"/>tend Him here at <hi>Oxford:</hi> We whose names are underwritten are here met and Assembled in obedience to those His Majesties commands. His Majesty was pleased to invite us in the said Pro<g ref="char:EOLhyphen"/>clamation by these gratious expressions; [That His Subjects should see how willing He was to receive advice for the preser<g ref="char:EOLhyphen"/>vation of the Religion, Lawes and safety of the Kingdom, and as farre as in Him lay, to restore it to it's former Peace and se<g ref="char:EOLhyphen"/>curity, (His chiefe and only end,) from those whom they had tru<g ref="char:EOLhyphen"/>sted, though He could not receive it, in the place where He ap<g ref="char:EOLhyphen"/>poynted.] This most gratious invitation hath not only been made good unto us, but seconded and heightned by such unque<g ref="char:EOLhyphen"/>stionable Demonstrations of the deep and Princely sense which possesses His Royall heart of the miseries and calamities of His poor Subjects in this unnaturall Warre, and of his most entire and passionate affections, to redeem them from that sad and de<g ref="char:EOLhyphen"/>plorable condition, by all waies possible, consistent either with His Honour, or with the future safety of the Kingdom, that, as it were impiety to question the sincerity of them, so were it great want of duty and faithfulnesse in us, (His Majesty having vouchsafed to Declare, That he did call us to be witnesses of His actions, and privy to His intentions,) should we not testify and witnesse to all the World, the assurance we have of the piety and sincerity of Both; We being most entirely satisfied of this truth, We cannot but confesse, that, amidst our highest afflictions, in the deep and piercing sense of the present miseries and desolati<g ref="char:EOLhyphen"/>ons of our Country, and those farther dangers threatned from
+<pb n="4" facs="tcp:180551:4"/>
+                     <hi>Scotland,</hi> We are at length erected to some chearfull and com<g ref="char:EOLhyphen"/>fortable thoughts, that possibly we may yet (by Go'ds mercy, if his Iustice have not determined this Nation for its sinnes, to totall ruine and desolation) hope to be happy Instruments of our Countries redemption, from the miseries of Warre, and restitu<g ref="char:EOLhyphen"/>tion to the blessing of Peace. And We being desirous to believe your Lordship (howsoever ingaged) a person likely to be sensi<g ref="char:EOLhyphen"/>bly touched with these considerations, have thought fit to invite you to that part in this blessed work, which is only capable to re<g ref="char:EOLhyphen"/>paire all our misfortunes, and to boy up the Kingdome from ru<g ref="char:EOLhyphen"/>ine; That is, by conjuring you, by all the obligations that have power upon Honour, Conscience, or publique Piety, that laying to heart, as we do, the inwardly bleeding condition of your Coun<g ref="char:EOLhyphen"/>try, and the outward more menacing destruction by a forraigne Nation, upon the very poynt of invading it, you will cooperate with us to its preservation, by truly representing to, and faith<g ref="char:EOLhyphen"/>fully and industriously promoving with those by whom you are trusted, this following most sincere and most earnest desire of ours; That they joyning with us in a right sense of the past, pre<g ref="char:EOLhyphen"/>sent, and more threatning calamities of this deplorable King<g ref="char:EOLhyphen"/>dome, some Persons be appoynted on either part, and a place a<g ref="char:EOLhyphen"/>greed on, to treat of such a Peace, as may yet redeem it from the brink of desolation.</p>
+                  <p>This addresse we should not have made, but that His Majesties Summons by which we are met, most gratiously proclaiming par<g ref="char:EOLhyphen"/>don to all without exception, is evidence enough, that his mercy and clemency can transcend all former provocations, and that He hath not only made us witnesses of His Princely Jntentions, but honoured us also with the name of being security for them.</p>
+                  <p>God Almighty direct your Lordship, and those to whom you shall present these our most reall desires, in such a course as may produce that happy Peace and settlement of the present Distacti<g ref="char:EOLhyphen"/>ons,
+<pb n="5" facs="tcp:180551:4"/> which is so heartily desired and prayed for by us, and which may make us,</p>
+                  <closer>
+                     <signed>Your &amp;c.</signed>
+                     <dateline>From OXFORD <date>the 29. Ianuary, 1643.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>We are not ashamed of that earnest, meek, and Christian request We made in this Letter, (though it was cryed through <hi>London</hi> Streets in scorn, as the Petition of the Prince, and Duke of <hi>York,</hi> for Peace) and We thought it would have prevailed to have procured a Treaty for so blessed a thing as Peace, and for such an end as redeeming the Kingdome from desolation (the only desire of that Our Letter:) but instead of a compliance with Us in this Christian work of Treaty and Accommodation, We received a meer frivolous answer, or rather a paper of scorne, in forme of a Letter, directed to the Earle of <hi>Forth,</hi> wherein was inclosed a Printed paper, cal<g ref="char:EOLhyphen"/>led, <hi>A Nationall Covenant of the Kingdomes of England and Scotland,</hi> and two other Papers in writing, one called, <hi>A De<g ref="char:EOLhyphen"/>claration of both those Kingdomes;</hi> and the other, <hi>A Declara<g ref="char:EOLhyphen"/>tion of the Kingdome of Scotland;</hi> Pamphlets full of Treason, Sedition, and disloyalty, which being publique are needlesse here to be inserted, the Copy of the Letter hereafter follow<g ref="char:EOLhyphen"/>eth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>MY LORD,</salute>
+                  </opener>
+                  <p>I Received this day a Letter of the nine and Twentieth of this instant from your Lordship, and a Parchment subscribed by the Prince, Duke of <hi>York,</hi> and divers other Lords and Gentlemen; but it neither having addresse to the two Howses of Parliament, nor therein there being any acknowledgement of
+<pb n="6" facs="tcp:180551:5"/> them, I could not communicate it to them. My Lord, the main<g ref="char:EOLhyphen"/>tenance of the Parliament of <hi>England,</hi> and of the Priviledges thereof, is that for which weare all resolved to spend our blood, as being the foundation whereupon all our Lawes and Liberties are built. I send your Lordship herewith, A Nationall Cove<g ref="char:EOLhyphen"/>nant, solemnely entred into by both the Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> and a Declaration passed by them both together, with another Declaration of the Kingdome of <hi>Scotland.</hi> I rest</p>
+                  <closer>
+                     <signed>Your Lordships humble servant, ESSEX.</signed>
+                     <dateline>ESSEX-house, <date>Ian. 30. 1643.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Whosoever considers this Letter, will easily finde it was fully understood to whom Ours was desired to be communi<g ref="char:EOLhyphen"/>cated, under the expression of <hi>(those by whom their Generall was trusted;)</hi> and although it be pretended, because there was no addresse to the two Houses of Parliament, nor acknow<g ref="char:EOLhyphen"/>ledgement of them, it could not be communicated to them, it is notoriously knowne, he did so farre impart it, that a Com<g ref="char:EOLhyphen"/>mittee of theirs advised the answer, and it appeares by the pen<g ref="char:EOLhyphen"/>ning, they all concurred in the resolution therein mentioned; whereby it is evident, that this was but an excuse framed to avoyd a Treaty; and what could that Printed Covenant, and two Declarations enclosed signifie, but to let Vs know, that before We come to any Treaty, We must also joyne in that Covenant with them for the absolute extirpation of Church-Government here, (without, nay though against the Kings Consent,) submit the Lives, Liberties, and Estates of Vs, and all those, who according to their Allegiance have assisted His Majesty, to their mercy, and admit and justifie the Inva<g ref="char:EOLhyphen"/>sion from <hi>Scotland,</hi> according to the plaine sense of their De<g ref="char:EOLhyphen"/>claration? which all indifferent men will think strange prepa<g ref="char:EOLhyphen"/>ratives
+<pb n="7" facs="tcp:180551:5"/> to a Treaty for Peace, and after such a yeelding and sub<g ref="char:EOLhyphen"/>mission, We know not what is left to Treat upon.</p>
+            <p>These things are too apparent to every ordinary understan<g ref="char:EOLhyphen"/>ding; and yet We were not forward to apprehend the scorne of that Letter, or take it for a deniall of a Treaty, but being still solicitous for that happy Peace, which alone could redeem this Kingdome from ruine, We resolved to try another way; and for avoyding delay, or Cavill about names, or titles or descants upon words, to forbear writing, &amp; humbly besought His Majesty to send Messengers with Instructions, to desire a Treaty for Peace; who was pleased to name M. <hi>Richard Fan<g ref="char:EOLhyphen"/>shawe,</hi> and M. <hi>Thomas Offly,</hi> (Gentlemen of cleare repute and integrity;) and to avoyd their danger in repairing to <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> at Our desire, commanded the Earle of <hi>Forth,</hi> his Gene<g ref="char:EOLhyphen"/>rall, to write to theirs for a safe Conduct for those two Mes<g ref="char:EOLhyphen"/>sengers, (for such is Our condition at present, that afree-born Subject, sent upon the Kings Message, cannot but with such leave repaire to <hi>London</hi> or <hi>Westminster,</hi> without danger of his Life.) The Letter for the safe Conduct was as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Cannot so willingly write to you in any businesse as in that of Peace, the indeavour thereof being the principall duty of those who are tru<g ref="char:EOLhyphen"/>sted in places of Our Commands, especially when the Blood that is spilt is of persons under the same Allegiance, of the same Country &amp; Religion. His Majesty Continuing constant in His pious and fervent desires of a happy end to these bloody distractions, I doe hereby desire your Lordship to send me a safe Conduct to and from <hi>Westminster,</hi> for <hi>M. Richard Fanshaw,</hi> and <hi>M. Tho: Offly,</hi> to be sent by His Majesty concerning a Treaty for Peace. J rest,</p>
+                  <closer>
+                     <signed>Your Lordships humble servant FORTH.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:180551:6"/>
+            <p>To this was returned a Letter, directed to the Earle of <hi>Forth,</hi> in these words, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>MY LORD,</salute>
+                  </opener>
+                  <p>YOu shew your Noblenesse in declaring your willingnesse to write to me in any businesse, as of that of Peace; and J joyne with you in the same opinion, that it ought to be a principall duty of those who are trusted in places of our Command; and therefore whensoever J shall receive any directions to those who have intrusted me, J shall use my best indeavours; and when you shall send for a safe Conduct for those Gentlemen, mentio<g ref="char:EOLhyphen"/>ned in your Letter, from His <hi>Majesty</hi> to the Houses of Parliament, J shall with all cheerfulnesse shew my willingnesse to further any way that may produce that happinesse that all honest men pray for, which is a true understanding between His Maiesty and his faithfull and onely Coun<g ref="char:EOLhyphen"/>cell, the Parliament.</p>
+                  <closer>
+                     <signed>Your Lordships humble servant, ESSEX.</signed>
+                     <dateline>Essex-house, <date>19. Febru<g ref="char:EOLhyphen"/>ary, 1643.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>That this doth neither grant a safe Conduct, or give any di<g ref="char:EOLhyphen"/>rect answer to the Earle of <hi>Forths</hi> request, every ordinary eye may see, (and yet such requests amongst Generalls are rarely denied;) and We may easily thereby discerne how fearefull they at <hi>Westminster</hi> are, least the poor distressed people of this Kingdome, should, by the advantage of a Treaty and free de<g ref="char:EOLhyphen"/>bate of the present difference, see how grosly they had been deceived and missed, and so obtaine anend of their miseries: for otherwise who could have beleeved, that when these dif<g ref="char:EOLhyphen"/>ferences a rose and were continued for want of a free Con<g ref="char:EOLhyphen"/>vention in Parliament, and that a maine end of the Treaty was to resolve how We, according to Our duty and the Trust re<g ref="char:EOLhyphen"/>posed in Vs by Our Countries, might with them freely de<g ref="char:EOLhyphen"/>bate, and advise His Majesty in those things that concerned the maintenance of Our Religion, Parliament Priviledges,
+<pb n="9" facs="tcp:180551:6"/> the Kings Rights, and the Subjects Liberty, and Property, that this Letter should tell Us, that the Party We are to Treat withall, is the Kings <hi>onely Councell,</hi> excluding all others, not onely our selves called by the same Authority to Coun<g ref="char:EOLhyphen"/>cell as they were, but His Privy Councell also, and Councell at Law; so that We could have no hopes of a Treaty, un<g ref="char:EOLhyphen"/>lesse We should first agree that they are the Parliament and the Kings onely Councell, whereby they that are Parties would become the onely Iudges of all things in question; which would be a submission and not a Treaty.</p>
+            <p>Having received these frivolous delayes, which we might have interpreted absolute denials of any Treaty of Peace, We yet resolving not to give over our endeavours for that which so much concerned the good of our Countrey, and the welfare of all Professours of the true Protestant Religi<g ref="char:EOLhyphen"/>on, by our humble and earnest desires to His Majesty, pre<g ref="char:EOLhyphen"/>vailed with Him to write His Royall Letters, and once more desire a Treaty for Peace, (though it had been so often for<g ref="char:EOLhyphen"/>merly rejected) and to avoid all colour of Exception, to di<g ref="char:EOLhyphen"/>rect it <hi>to the Lords and Commons of Parliament assembled at Westminster;</hi> which was done and enclosed in a Letter from the Earle of <hi>Forth</hi> to their Generall. A Copy of both which Letters hereafter followes.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Have received your Letter of the nineteenth of this Moneth, which, according to my duty, I shewed to his <hi>Majestie,</hi> who observing in it your Expressions concerning Peace, (that whensoever you shall receive any directions to those that
+<pb n="10" facs="tcp:180551:7"/> have entrusted you, you shall use your best endea<g ref="char:EOLhyphen"/>vours,) is gratiously pleased to send this inclosed, which is desired may be delivered according to the directions.</p>
+                  <closer>Directed to the Earle of ESSEX, subscribed by the Earle of FORTH.</closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>C. R.</signed>
+                  </opener>
+                  <p>OƲt of Our most tender and pious sense of the sad and bleeding condition of this Our King<g ref="char:EOLhyphen"/>dome, and Our unwearied desires to apply all remedies, which, by the blessing of Almighty God, may recover it from an utter ruine; By the advice of the Lords and Commons of Parliament Assembled at <hi>Oxford,</hi> We do propound and desire, That a convenient number of fit Persons, may be appointed and authorized by you to meet with all convenient speed, at such Place as you shall no<g ref="char:EOLhyphen"/>minate, with an equall number of fit Persons, whom We shall appoint and authorize to Treat of the wayes and meanes to settle the present distractions of this our Kingdome, and to procure a happy Peace. And parti<g ref="char:EOLhyphen"/>cularly, how all the Members of both Houses, may seoure<g ref="char:EOLhyphen"/>ly meet in a full and free Convention of Parliament, there to Treat, Consult and Agree upon such things, as may conduce to the maintenance and defence of the true
+<pb n="11" facs="tcp:180551:7"/> Reformed Protestant Religion, with due consideration to all just and reasonable ease of tender Consciences; to the setling and maintaining of our just Rights and Priviledges; of the Rights and Priviledges of Par<g ref="char:EOLhyphen"/>liament, the Lawes of the Land, the Liberty and Pro<g ref="char:EOLhyphen"/>perty of the Subject; and all other expedients that may conduce to that blessed end of a firme and lasting Peace, both in Church and State, and a perfect understanding betwixt Vs and Our People; wherein no endeavours or concurrency of Ours shall be wanting. And God di<g ref="char:EOLhyphen"/>rect your bearts in the wayes of Peace.</p>
+                  <closer>
+                     <dateline>Given at Our Court at <hi>Oxford,</hi>
+                        <date>the third day of <hi>March.</hi> 1643.</date>
+                     </dateline>
+                  </closer>
+                  <closer>
+                     <hi>Superscribed,</hi> To the Lords and Commons of Parliament Assembled at <hi>Westminster.</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>We now appeale to all the World, what could more have been done by His Majesty, or Vs, in order to Peace, here be<g ref="char:EOLhyphen"/>ing so great a condescending from a King to Subjects, all in<g ref="char:EOLhyphen"/>different advantages left to them, both for time and place of Treaty, and choice of Persons to Treat: But what their In<g ref="char:EOLhyphen"/>tentions to Peace are, will appeare by their Letter inclosed in one from their Generall, to the Earle of <hi>Forth,</hi> both which are as followeth.</p>
+            <pb n="12" facs="tcp:180551:8"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>MY LORD,</salute>
+                  </opener>
+                  <p>I Am Commanded by both Houses of Parlia<g ref="char:EOLhyphen"/>ment, to send a Trumpetter with the inclosed Letter to His <hi>Majesty,</hi> which I desire your Lord<g ref="char:EOLhyphen"/>ship, may be most humbly presented to His <hi>Maje<g ref="char:EOLhyphen"/>stie.</hi> I rest,</p>
+                  <closer>
+                     <signed>Your Lordships humble servant, ESSEX.</signed>
+                     <dateline>Essex-house, <date>March, 9<seg rend="sup">th</seg>. 1643.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it please Your MAJESTY,</salute>
+                  </opener>
+                  <p>VVEE the <hi>Lords</hi> and <hi>Commons</hi> Assembled in the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> taking into our Consideration a Letter sent from Your Majesty, dated the third of <hi>March</hi> In<g ref="char:EOLhyphen"/>stant, and directed to the <hi>Lords</hi> and <hi>Commons</hi> of Parliament Assembled at <hi>Westminster,</hi> (which by the Contents of a Letter from the Earle of <hi>Forth,</hi> unto the Lord Generall, the Earle of <hi>Essex,</hi> we conceive was intended to our selves) Have resolved with the concurrent advice, and consent of the Commissioners of the Kingdome of <hi>Scotland,</hi> to represent to Your <hi>Majesty,</hi> in all humility and plainnesse, as followeth.</p>
+                  <p>
+                     <hi>That,</hi> as we have used all meanes for a just, and a safe Peace; so will we never be wanting to do our utmost for the procuring thereof: But when we consider the expressions in that Letter of Your <hi>Majesties,</hi> We have more sad, and despairing thoughts of attaining the same, then ever; because thereby, those Persons now Assembled at <hi>Oxford,</hi> who contrary to their duty have deserted Your Parliament, are put into an equall Condition with it: and this parliament Conveened, according to the known and Funda<g ref="char:EOLhyphen"/>mentall
+<pb n="13" facs="tcp:180551:8"/> Lawes of the Kingdome, (the continuance whereof is established by a Law consented unto by your <hi>Majesty,)</hi> is in ef<g ref="char:EOLhyphen"/>fect denyed to be a Parliament; The Scope, and Intention of that Letter being to make provision how all the Members (as is pre<g ref="char:EOLhyphen"/>tended) of both Houses, may securely meet in a full, and free Convention of Parliament; whereof no other conclusion can be made, but that this present Parliament is not a full nor free con<g ref="char:EOLhyphen"/>vention; And that to make it a full, and free Convention of Par<g ref="char:EOLhyphen"/>liament, the presence of those is Necessary, who, notwithstanding that they have deserted that great <hi>Trust,</hi> and do Levy Warre against the Parliament, are pretended to be Members of the two Houses of Parliament.</p>
+                  <p>
+                     <hi>And hereupon,</hi> we think our selves bound to let Your <hi>Maje<g ref="char:EOLhyphen"/>sty</hi> know, That seeing the continuance of this Parliament is set<g ref="char:EOLhyphen"/>led by a Law (which as all other Lawes of Your Kingdoms, Your <hi>Majesty</hi> hath sworne to maintain, as we are sworne to our Alle<g ref="char:EOLhyphen"/>giance to Your <hi>Majesty,</hi> (these obligations being reciprocall,) we must in duty, and accordingly are resolved with our Lives and Fortunes, to defend and preserve the <hi>Iust Rights, and full Power of this Parliament:</hi> And do beseech Your <hi>Majesty</hi> to be assured, That Your <hi>Majesties</hi> Royall, and hearty Concurrence with us herein, will be the most effectuall, and ready meanes of procuring a firme and lasting <hi>Peace,</hi> in all Your <hi>Majesties</hi> Do<g ref="char:EOLhyphen"/>minions, and of begetting a perfect understanding between Your <hi>Majesty,</hi> and Your People; without which Your <hi>Majesties</hi> most earnest Professions, and our most reall Intentions concerning the same, must necessarily be frustrated. And in case Your <hi>Majesties</hi> three Kingdomes should by reason thereof, remain in this sad and bleeding Condition, tending, by the continuance of this unnatu<g ref="char:EOLhyphen"/>rall <hi>War,</hi> to their <hi>Ruine,</hi> Your <hi>Majesty</hi> cannot be the least, nor the last sufferer. God in his goodnesse incline Your Royall breast, out of Pitty and compassion to those deep sufferings of Your Inno<g ref="char:EOLhyphen"/>cent People, to put a speedy, and happy Issue to these desperate E<g ref="char:EOLhyphen"/>vills,
+<pb n="14" facs="tcp:180551:9"/> by the joynt advice of both Your Kingdomes, now happily united in this <hi>Cause,</hi> by their late solemne <hi>League</hi> and <hi>Cove<g ref="char:EOLhyphen"/>nant.</hi> Which as it will prove the surest remedy; so is it the earnest prayer of your <hi>Majesties</hi> loyall Subiects, the <hi>Lords</hi> and <hi>Commons</hi> Assembled in the Parliament of <hi>England.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Westminster <date>the 9<seg rend="sup">th</seg> of <hi>March,</hi> 1643.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Grey</hi> of <hi>Warke,</hi> Speaker of the House of Peeres in Parliament, <hi>pro tempore.</hi>
+                           </item>
+                           <item>
+                              <hi>William Lenthall</hi> Speaker of the Commons-House in Parliament.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Whosoever considers that this should be a Letter from Subjects, might well thinke it very unbeseeming language in them, to call His Majesties earnest endeavours for Peace but <hi>Professions,</hi> and their own feigned pretences <hi>most reall inten<g ref="char:EOLhyphen"/>tions,</hi> but much more wonder at that menacing language, that <hi>His Majesty cannot be the least or last Sufferer;</hi> which expressions from Subjects in Armes to their Soveraigne, what dangerous construction they may admit, We are un<g ref="char:EOLhyphen"/>willing to mention.</p>
+            <p>But we need not wonder at the manner of their expressions when we see in this Letter the Parliament it selfe, as farre as in them lies, destroyed, &amp; those who here stile themselves, The Lords and Commons assembled in the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> not to resolve upon their Answer to their King, without the concurrent advice and consent of the Commissioners, as they call them, of the Kingdome of <hi>Scotland.</hi>
+            </p>
+            <pb n="15" facs="tcp:180551:9"/>
+            <p>If they had only taken the advice of the Scottish Commis<g ref="char:EOLhyphen"/>sioners, they had broken the Fundamentall Constitution of Parliament; the very Writs of Summons, the Foundation of all power in Parliament, being directed to the Lords (in ex<g ref="char:EOLhyphen"/>presse termes) to treat and advise with the King and the rest of the Peeres of the Kingdom of <hi>England,</hi> and for the Com<g ref="char:EOLhyphen"/>mons to do and consent to those things, which by that Com<g ref="char:EOLhyphen"/>mon-Councell of <hi>England</hi> should be ordained, thereby ex<g ref="char:EOLhyphen"/>cluding all others.</p>
+            <p>But their League, it seemes, it gone further; the Scots must consent as well as advise, so that they have gotten a ne<g ref="char:EOLhyphen"/>gative voice, and they, who in the former Letter would be the Kings onely Councell, are now become no Councell without the Scottish Commissioners. The truth is, they have (besides the solemne League and Covenant with the Scots, (which their Letter mentions) a strange and traiterous pre<g ref="char:EOLhyphen"/>sumption for Subjects to make a Covenant and League with Subjects of another Kingdome without their Prince,) made private bargaines with the Scots touching our Estates, and a private agreement, not to treat without their consent, as some of themselves, being afraid of a Treaty, openly declared to the Common-Councell of <hi>London;</hi> and therefore 'tis no wonder, that being touched to the quicke, with the apprehen<g ref="char:EOLhyphen"/>sion that they are not, nor can be in this condition, a full and free Convention of Parliament, They charge Vs with de<g ref="char:EOLhyphen"/>serting our trust, and would have Vs to be no Members of the Parliament. They may remember it was our want of freedome within, and the seditious Tumults without, their many multiplied Treasons there, and imposing traiterous Oathes, which inforced our absence: but concerning that and the want of freedome in Parliament, We shall say no more here, (that being the subject of another Declaration,) onely We wish them to consider by what fundamentall
+<pb n="16" facs="tcp:180551:10"/> Lawes of the Kingdome (which they have lately wrested to serve all turnes) They can exclude Us from our Votes in Parliament, who were duely Summoned, chosen and re<g ref="char:EOLhyphen"/>turned Members of Parliament, and take in those of ano<g ref="char:EOLhyphen"/>ther Kingdome to their Resolutions, who are not bound by our Lawes.</p>
+            <p>But what violation soever they make of the Lawes, they are forward to put the King in minde of His Duty; and therefore tell Him, That He is sworne to maintain the Lawes, as they are sworne to their Allegiance to Him, these obligati<g ref="char:EOLhyphen"/>ons being reciprocall: it is true in some sense, that the Oath of the King and Subjects is reciprocall, that is, each is bound to performe what they sweare, the King as well as the Subjects; but he that will well weigh their Letter, and make one part have connexion with the other, and examine that part of their Covenant, whereby they sweare they will defend the Kings Person and Authority (no further or otherwise then in that which they call the preservation of their Religion and Liberties,) may easily finde another construction, <hi>viz.</hi> That the Subjects Allegiance is no longer due than the King per<g ref="char:EOLhyphen"/>formes His Duty, nay, no longer than He in their opinion observes His Duty, whereof they themselves must be Iudges; and if He faile in His Duty, they may take up Armes against Him; a principle which as it is utterly destructive to all Go<g ref="char:EOLhyphen"/>vernment, so We believe, they themselves dare not plainly avow it, least as they now make use of it against the King, so the People finding their failer of Duty, and breach of Trust, should hereafter practise it by taking up Armes against them, and so shake off that yoake of tyranny imposed by their Fel<g ref="char:EOLhyphen"/>low-Subjects, which lies so heavy upon them. It were well, as they still presse upon the King maintenance of the Lawes, they would also know that their obligation to observe the
+<pb n="17" facs="tcp:180551:10"/> same is reciprocall, and while they here resolve to defend and preserve the full power of this Parliament, (which intheir sense can be no other than the power they have exercised this Parliament) they would take notice, that they are therein so farre from observation of the Lawes, that they desperately resolve an utter subversion of them; for what can more tend to the destruction of the Lawes, than to usurpe a power to themselves without the King, and against His will to raise Armes, to attribute to their Orders or pretended Ordi<g ref="char:EOLhyphen"/>nances, the power of Lawes and Statutes, to inforce Contri<g ref="char:EOLhyphen"/>butions, Loanes, and Taxes of all sorts from the Subject, to imprison without cause shewed, and then prohibit Writs of <hi>Habeas Corpus</hi> for their enlargement, to lay Excises upon all Commodities, to command and dispose of the Lives and Estates of the freeborne Subjects of this Kingdome at their pleasure, to impose Tonnage and Poundage, contrary to the Law declared in the late Act for Tonnage and Poundage, and all this done and justified, as by a legall civill power founded and inherent in them? All which are manifest breaches of the Petition of Right and <hi>Magna Charta,</hi> the great Evidence of the Liberties of <hi>England;</hi> which Charter by expresse words bindes them and us, though assembled in Parliament, as well as the King, and though it be not now, as heretofore it hath been, taken by solemne Oath on the Peoples part as well as on the Kings, nor a curse as he retofore pronounced on the violaters, yet they having taken a Protestation to main<g ref="char:EOLhyphen"/>tain the Lawes, and the Liberties, and Properties of the Sub<g ref="char:EOLhyphen"/>ject, and inclusively that Charter, let them take heed whilest they make use of this their pretended power to the destruction of the Law, least a curse fall upon them and upon their posteri<g ref="char:EOLhyphen"/>ty. God knoweth, and it is too certain a truth, that our selves and many other good Subjects in this Kingdome, even under
+<pb n="18" facs="tcp:180551:11"/> the power of the Kings Army, have suffered exceedingly in Liberty and Estates, during this present Rebellion, by many heavy charges; the sad consideration whereof makes our hearts bleed, because We can see no way for reliefe, so long as this unnaturall Rebellion continues: but as these things were first practised by them, and thereby necessitated upon the Kings Army; so it was never yet pretended that they were done by vertue of a Law, but either by consent, or by the unhappy and unavoidable exigences of Warre, and to ex<g ref="char:EOLhyphen"/>pire with the present Rebellion, which God in mercy hasten. For our parts We have the inward comfort of our own con<g ref="char:EOLhyphen"/>sciences, witnessing with Vs, that We have improved all op<g ref="char:EOLhyphen"/>portunities and advantages for the restoring of this King<g ref="char:EOLhyphen"/>dome to its former Peace, and We must witnesse for His Ma<g ref="char:EOLhyphen"/>jesty, His most hearty desires thereof: and though both His Majesty and our endeavours therein have been made frustrate, yet God in his great goodnesse hath raised up our spirits, not to desert our Religion, our King, our Lawes, our Lives, the Liberties of us English freeborne Subjects; and by Gods assistance, and His Majesties concurrence, We do resolve to unite our selves as one man, and chearfully adventure our Lives and Estates for the maintenance and defence of the true Reformed Protestant Religion of the Church of <hi>England,</hi> (of which We professe our selves to be,) for the defence of the Kings Person and Rights of His Crown, for the regain<g ref="char:EOLhyphen"/>ing and maintaining the Rights and Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, and the Liberty of the Subjects Person, and Property of his Estate, according to the known Lawes of the Land, to repell those of the Scottish Nation, that have in a warlike manner entred this Realme, and to reduce the Subjects there<g ref="char:EOLhyphen"/>of, now in Rebellion, to the Kings obedience: and We doubt not but the same God will enlighten the eyes of the
+<pb n="19" facs="tcp:180551:11"/> poore deceived People of this Land, like true hearted honest English-men, to joyne unanimously with Vs in so just and pi<g ref="char:EOLhyphen"/>ous a Worke. And the God of Heaven prosper Vs, accord<g ref="char:EOLhyphen"/>ing to the goodnesse of the Cause We have in hand.</p>
+         </div>
+      </body>
+      <back>
+         <div type="lists_of_subscribers">
+            <pb n="20" facs="tcp:180551:12"/>
+            <head>The Names of the Lords and Commons of PARLIAMENT Assembled at OXFORD, who did subscribe the Letter to the Earle of ESSEX, dated <hi>Ianuary</hi> 27. 1643.</head>
+            <div n="lords" type="house">
+               <list>
+                  <item>CHARLES P.</item>
+                  <item>YORKE.</item>
+                  <item>CUMBERLAND.</item>
+                  <item>Ed. Littleton. C. S.</item>
+                  <item>Fra. Cottington.</item>
+                  <item>D. Richmond.</item>
+                  <item>M. Hertford.</item>
+                  <item>E. Lindsey.</item>
+                  <item>E. Dorset.</item>
+                  <item>E. Shrewsbury.</item>
+                  <item>E. Bath.</item>
+                  <item>E. Southampton.</item>
+                  <item>E. Leicester.</item>
+                  <item>E. Northampton.</item>
+                  <item>E. Devonshire.</item>
+                  <item>E. Carlile.</item>
+                  <item>E. Bristoll.</item>
+                  <item>E. Barkshire.</item>
+                  <item>E. Cleveland.</item>
+                  <item>E. Rivers.</item>
+                  <item>E. Dover.</item>
+                  <item>E. Peterborough.</item>
+                  <item>E. Kingston.</item>
+                  <item>E. Newport.</item>
+                  <item>E. Portland.</item>
+                  <item>V. Conway.</item>
+                  <item>L. Digby.</item>
+                  <item>L. Moubray <hi>&amp;</hi> Mattravers.</item>
+                  <item>L. Wentworth.</item>
+                  <item>L. Cromwell.</item>
+                  <item>L. Rich.</item>
+                  <item>L. Paget.</item>
+                  <item>L. Chandoys.</item>
+                  <item>L. Howard <hi>of Charlton.</hi>
+                  </item>
+                  <item>L. Lovelace.</item>
+                  <item>L. Savile.</item>
+                  <item>L. Mohun.</item>
+                  <item>L. Dunsmore.</item>
+                  <item>L. Seymour.</item>
+                  <item>L. Percy.</item>
+                  <item>L. Wilmott.</item>
+                  <item>L. Leigh.</item>
+                  <item>L. Hatton.</item>
+                  <item>L. Iermin.</item>
+                  <item>L. Carrington.</item>
+               </list>
+            </div>
+            <div n="commons" type="house">
+               <pb n="21" facs="tcp:180551:12"/>
+               <list>
+                  <item>IOhn Fettiplace. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Alex. Denton.</item>
+                  <item>
+                     <hi>Sir</hi> Iohn Packington.</item>
+                  <item>
+                     <hi>Sir</hi> Tho. Smith.</item>
+                  <item>Fr. Gamui. <hi>Esq;</hi>
+                  </item>
+                  <item>Io. Harris. <hi>Esq;</hi>
+                  </item>
+                  <item>Ioseph Iane. <hi>Esq;</hi>
+                  </item>
+                  <item>Ric. Edgcombe. <hi>Esq;</hi>
+                  </item>
+                  <item>Ionathan Rashleigh. <hi>Esq;</hi>
+                  </item>
+                  <item>G. Fane. <hi>Esq;</hi>
+                  </item>
+                  <item>P. Edgcombe. <hi>Esq;</hi>
+                  </item>
+                  <item>Will. Glanvill. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Robert Holborne.</item>
+                  <item>
+                     <hi>Sir</hi> Ra. Sydenham.</item>
+                  <item>Fr. Godolphin. <hi>Esq;</hi>
+                  </item>
+                  <item>Geo. Parry. <hi>D. of Law.</hi>
+                  </item>
+                  <item>Amb. Manaton. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Ri. Vyvyan.</item>
+                  <item>Iohn Polewheile. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Arundell. <hi>Esq;</hi>
+                  </item>
+                  <item>Tho. Lower. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Edw. Hide.</item>
+                  <item>Will. Allestree. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Geo. Stonehouse.</item>
+                  <item>Ed. Seymour. <hi>Esq;</hi>
+                  </item>
+                  <item>Peter Sainthill. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Will. Poole.</item>
+                  <item>Roger Mathew. <hi>Esq;</hi>
+                  </item>
+                  <item>Ri. Arundell. <hi>Esq;</hi>
+                  </item>
+                  <item>Ro. Walker. <hi>Esq;</hi>
+                  </item>
+                  <item>Giles Straingwaies. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Iohn Straingwaies.</item>
+                  <item>
+                     <hi>Sir</hi> Tho. Hele.</item>
+                  <item>
+                     <hi>Sir</hi> Ger. Naper.</item>
+                  <item>Sam. Turner. <hi>D. in Phisicke.</hi>
+                  </item>
+                  <item>Will. Constantine. <hi>Esq;</hi>
+                  </item>
+                  <item>Hen. Killigrew. <hi>Esq;</hi>
+                  </item>
+                  <item>Ri. King. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Dutton. <hi>Esq;</hi>
+                  </item>
+                  <item>Hen. Bret. <hi>Esq;</hi>
+                  </item>
+                  <item>Will. Chadwell. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Theobald Georges.</item>
+                  <item>Iohn George. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Tho. Fanshaw.</item>
+                  <item>Humf. Conningesby. <hi>Esq;</hi>
+                  </item>
+                  <item>Ri. Seaborne. <hi>Esq;</hi>
+                  </item>
+                  <item>L<seg rend="sup">d</seg>. Ranelaugh.</item>
+                  <item>Tho. Tomkins. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Samp. Evers. <hi>Ser. at Law.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Iohn Culpeper.</item>
+                  <item>Ieffrey Palmer. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Iohn Harrison.</item>
+                  <item>Tho. Fanshaw. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Rog. Palmer.</item>
+                  <item>
+                     <hi>Sir</hi> Orlando Bridgman.</item>
+                  <item>Will. Watkins. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Smith. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Tho. Bludder.</item>
+                  <item>
+                     <hi>Sir</hi> Ed. Littleton.</item>
+                  <item>
+                     <hi>Sir</hi> Harvy Bagot.</item>
+                  <item>
+                     <hi>Sir</hi> Ri. Leveson.</item>
+                  <item>
+                     <hi>Sir</hi> Ri. Cave.</item>
+                  <item>Ri. Weston. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Ri. Lee.</item>
+                  <item>
+                     <hi>Sir</hi> Tho. Whitmore.</item>
+                  <item>
+                     <hi>Sir</hi> Ed. Acton.</item>
+                  <pb n="22" facs="tcp:180551:13"/>
+                  <item>C. Baldwin. <hi>Esq;</hi>
+                  </item>
+                  <item>R. Goodwin. <hi>Esq;</hi>
+                  </item>
+                  <item>Tho. Howard. <hi>Esq;</hi>
+                  </item>
+                  <item>Tho Littleton. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Robert Howard.</item>
+                  <item>
+                     <hi>Sir</hi> Iohn Meux.</item>
+                  <item>Matthew Davis. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> F. Cornwallis.</item>
+                  <item>Tho. Iermyn. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Tayler. <hi>Esq;</hi>
+                  </item>
+                  <item>William Basset. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> William Portman.</item>
+                  <item>
+                     <hi>Sir</hi> Ed. Rodney.</item>
+                  <item>Tho. Hanham. <hi>Esq;</hi>
+                  </item>
+                  <item>Ed. Phelipps. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Digby. <hi>Esq;</hi>
+                  </item>
+                  <item>Ed. Kirton. <hi>Esq;</hi>
+                  </item>
+                  <item>Christ. Leuknor. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Edw. Alford.</item>
+                  <item>Iohn White. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Ashburnham. <hi>Esq;</hi>
+                  </item>
+                  <item>Will. Smith. <hi>Esq;</hi>
+                  </item>
+                  <item>Tho. Leedes. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Ia. Thynne.</item>
+                  <item>W. Pleydell. <hi>Esq;</hi>
+                  </item>
+                  <item>Ro. Hide, <hi>Serjeant at Law.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Ed. Griffin.</item>
+                  <item>
+                     <hi>Sir</hi> Walter Smith.</item>
+                  <item>Geo. Lowe. <hi>Esq;</hi>
+                  </item>
+                  <item>Ric. Harding. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Henry Herbert.</item>
+                  <item>End. Porter. <hi>Esq;</hi>
+                  </item>
+                  <item>Sam. Sandys. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Bodvill. <hi>Esq;</hi>
+                  </item>
+                  <item>Will. Morgan. <hi>Esq;</hi>
+                  </item>
+                  <item>Will. Thomas. <hi>Esq;</hi>
+                  </item>
+                  <item>Io. Mostyn. <hi>Esq;</hi>
+                  </item>
+                  <item>Hen. Bellasis. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Geo. Wentworth.</item>
+                  <item>Will. Malory. <hi>Esq;</hi>
+                  </item>
+                  <item>Ri. Aldburgh. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Salisbury. <hi>Esq;</hi>
+                  </item>
+                  <item>Will. Herbert. <hi>Esq;</hi>
+                  </item>
+                  <item>William Price. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Iohn Price.</item>
+                  <item>
+                     <hi>Sir</hi> Ric. Herbert.</item>
+                  <item>Cha. Price. <hi>Esq;</hi>
+                  </item>
+                  <item>Phil. Warwick. <hi>Esq;</hi>
+                  </item>
+                  <item>Tho. Cooke. <hi>Esq;</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Rob. Crooke.</item>
+                  <item>Herb. Price. <hi>Esq;</hi>
+                  </item>
+                  <item>Iohn Whistler. <hi>Esq;</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="lists_of_absentees">
+            <pb n="23" facs="tcp:180551:13"/>
+            <div n="lords" type="house">
+               <head>THese PEERES following, being disabled by several accidents to appeare sooner, have since attended the Ser<g ref="char:EOLhyphen"/>vice and concurred with us.</head>
+               <list>
+                  <item>V. <hi>Cambden.</hi>
+                  </item>
+                  <item>L. <hi>Aburgavenny.</hi>
+                  </item>
+                  <item>L. <hi>Arundell.</hi>
+                  </item>
+                  <item>L. <hi>Capell.</hi>
+                  </item>
+                  <item>L. <hi>Newport.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Peeres imployed in His Majesties service, or absent with leave.</head>
+                  <item>Marq. of <hi>Winchester.</hi>
+                  </item>
+                  <item>Marq. of <hi>Worcester.</hi>
+                  </item>
+                  <item>Marq. of <hi>New-Castle.</hi>
+                  </item>
+                  <item>E. of <hi>Darby.</hi>
+                  </item>
+                  <item>E. of <hi>Huntingdon.</hi>
+                  </item>
+                  <item>E. of <hi>Clare.</hi>
+                  </item>
+                  <item>E. of <hi>Marleborough.</hi>
+                  </item>
+                  <item>V. <hi>Falconbridge.</hi>
+                  </item>
+                  <item>L. <hi>Morley.</hi>
+                  </item>
+                  <item>L. <hi>Darcy</hi> and <hi>Coniers.</hi>
+                  </item>
+                  <item>L. <hi>Sturton.</hi>
+                  </item>
+                  <item>L. <hi>Evers.</hi>
+                  </item>
+                  <item>L. <hi>Daincourt,</hi>
+                  </item>
+                  <item>L. <hi>Pawlet.</hi>
+                  </item>
+                  <item>L. <hi>Brudnell.</hi>
+                  </item>
+                  <item>L. <hi>Powesse.</hi>
+                  </item>
+                  <item>L. <hi>Herbet</hi> of <hi>Cherbury.</hi>
+                  </item>
+                  <item>L. <hi>Hopton.</hi>
+                  </item>
+                  <item>L. <hi>Loughborough.</hi>
+                  </item>
+                  <item>L. <hi>Byron.</hi>
+                  </item>
+                  <item>L. <hi>Vaughan.</hi>
+                  </item>
+                  <item>L. <hi>Withrington.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Peeres absent in the parts beyond the Seas.</head>
+                  <item>E. of <hi>Arundell.</hi>
+                  </item>
+                  <item>E. of S<seg rend="sup">t</seg>
+                     <hi>Albans.</hi>
+                  </item>
+                  <item>L. Viscount <hi>Mountague.</hi>
+                  </item>
+                  <item>L. Viscount <hi>Stafford.</hi>
+                  </item>
+                  <item>L. <hi>Stanhop.</hi>
+                  </item>
+                  <item>L. <hi>Coventry.</hi>
+                  </item>
+                  <item>L. <hi>Goring.</hi>
+                  </item>
+                  <item>L. <hi>Craven</hi> of <hi>Hamsted.</hi>
+                  </item>
+                  <item>L. <hi>Craven</hi> of <hi>Ryton.</hi>
+                  </item>
+               </list>
+               <pb n="24" facs="tcp:180551:14"/>
+               <list>
+                  <head>Peeres in Prison for their Loyalty to His Majesty.</head>
+                  <item>Earle of <hi>Chesterfeild.</hi>
+                  </item>
+                  <item>L. <hi>Mountague</hi> of <hi>Boughton.</hi>
+                  </item>
+               </list>
+               <p>Whoever viewes these numbers, and considers how many Peeres are at this time under age, will quickly know, who and how many are privy or consenting to the Counsells at <hi>West<g ref="char:EOLhyphen"/>minster.</hi>
+               </p>
+            </div>
+            <div n="commons" type="house">
+               <head>THese Members of the Commons house following, being disabled by severall accidents to appeare sooner, have since attended the Service, and concurred with us.</head>
+               <list>
+                  <item>
+                     <hi>Peter Venables.</hi> Esq;</item>
+                  <item>Sir <hi>Iohn Pawlet.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Bagshaw.</hi> Esq;</item>
+                  <item>Sir <hi>Iohn Burlasey.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Newport.</hi> Esq;</item>
+                  <item>
+                     <hi>Anthony Hungerford.</hi> Esq;</item>
+                  <item>
+                     <hi>Iohn Russell.</hi> Esq;</item>
+                  <item>
+                     <hi>Thomas Chichley.</hi> Esq;</item>
+                  <item>Earle of <hi>Corke.</hi>
+                  </item>
+                  <item>Sir <hi>Gervase Clifton.</hi>
+                  </item>
+                  <item>Sir <hi>Guy Palmes.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Sutton.</hi> Esq;</item>
+                  <item>
+                     <hi>Gervase Hollis.</hi> Esq;</item>
+                  <item>Sir <hi>Patritius Curwen.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Bellingham.</hi>
+                  </item>
+                  <item>Sir <hi>George Dalston.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Sandford.</hi>
+                  </item>
+                  <item>Sir <hi>William Dalston.</hi>
+                  </item>
+                  <item>
+                     <hi>Michaell Wharton.</hi> Esq;</item>
+                  <item>Sir <hi>Robert Hatton.</hi>
+                  </item>
+                  <item>
+                     <hi>Iames Scudamore.</hi> Esq;</item>
+                  <item>Sir <hi>Iohn Brooke.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Stepney.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Imployed in His Majesties Service, or absent with leave, or by sicknesse.</head>
+                  <item>Sir <hi>Iohn Fenwick.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Potter.</hi> Esq;</item>
+                  <item>
+                     <hi>Walter Kyrle.</hi> Esq;</item>
+                  <item>
+                     <hi>William Stanhop.</hi> Esq;</item>
+                  <pb n="25" facs="tcp:180551:14"/>
+                  <item>Sir <hi>William Carnaby.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Danby.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Fenwick.</hi> Esq;</item>
+                  <item>
+                     <hi>Ralph Sneade.</hi> Esq;</item>
+                  <item>Sir <hi>William Ogle.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Iermyne.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Stowell.</hi>
+                  </item>
+                  <item>Sir <hi>Robert Strickland.</hi>
+                  </item>
+                  <item>Sir <hi>Philip Musgrave.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Cowcher.</hi> Esq;</item>
+                  <item>
+                     <hi>Iohn Coventry.</hi> Esq;</item>
+                  <item>Sir <hi>Henry Slingesby.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Malory.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Bellasis.</hi> Esq;</item>
+                  <item>Sir <hi>Thomas Ingram.</hi>
+                  </item>
+                  <item>Lord <hi>Mansfeild.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Heblethwayte.</hi> Esq;</item>
+                  <item>Sir <hi>Hugh Cholmely.</hi>
+                  </item>
+                  <item>Sir <hi>George Wentworth.</hi>
+                  </item>
+                  <item>Sir <hi>Walter LLoyd.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Vaughan.</hi>
+                  </item>
+                  <item>Sir <hi>Francis LLoyd.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Vaughan.</hi> Esq;</item>
+                  <item>
+                     <hi>Richard Ferrers.</hi> Esq;</item>
+                  <item>
+                     <hi>George Hartnoll.</hi> Esq;</item>
+                  <item>Sir <hi>William Vdall.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Hunt.</hi> Esq;</item>
+                  <item>
+                     <hi>Thomas May.</hi> Esq;</item>
+                  <item>Sir <hi>Thomas Bowyer.</hi>
+                  </item>
+                  <item>Sir <hi>Tho. Roe.</hi>
+                  </item>
+               </list>
+               <p>Whoever now considers how many have retired them<g ref="char:EOLhyphen"/>selves into severall Counties, and so are absent from <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and yet cannot through the danger of Travelling be present at <hi>Oxford;</hi> how many have withdrawne themselves into the parts beyond the Seas; how many of their owne principall Instruments are Voted out of the House by them<g ref="char:EOLhyphen"/>selves, as Sir <hi>Iohn Hotham</hi> and his Sonne, Sir <hi>Alexander Carew,</hi> M. <hi>Martyn,</hi> M. <hi>Fiennes,</hi> and many others; and how many now are Imprisoned by them; how many Members from the beginning have been factiously kept from the House upon questions of Election; and how many without any Colour, are kept in, by not suffering their Elections to be reported; and that there are Thirty five Members dead, into whose roomes no new Persons are chosen; how many since are be<g ref="char:EOLhyphen"/>come Barons by descent or Creation, will easily conclude how small the number is which remaines, and of those how few in truth have right to sit there.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
